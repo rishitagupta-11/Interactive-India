@@ -1,0 +1,2 @@
+# Interactive-India
+"Interactive India" is an innovative project developed to educate school children about the states of India. With Arduino, an LCD screen, a joystick, and Nano Pixel LED strips, this interactive tool allows students to control and display information about each state. Additionally, optical fibers are skillfully integrated, enveloping each state to create an enchanting glowing effect, captivating children's interest while they learn about India's rich diversity.
